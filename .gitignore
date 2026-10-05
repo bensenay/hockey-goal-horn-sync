@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# API Keys & Secrets (NEVER commit these!)
+.env
+.env.local
+config.local.py
+
+# Audio files (users add their own)
+*.mp3
+*.wav
+*.m4a
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+.pytest_cache/

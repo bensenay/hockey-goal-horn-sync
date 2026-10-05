@@ -1,0 +1,190 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    32 NHL TEAMS — OFFICIAL RGB COLORS
+                      For Govee Lights & Home Automation
+═══════════════════════════════════════════════════════════════════════════════
+
+Format: {"r": RED, "g": GREEN, "b": BLUE}
+
+═══════════════════════════════════════════════════════════════════════════════
+ATLANTIC DIVISION
+═══════════════════════════════════════════════════════════════════════════════
+
+BOSTON BRUINS
+Primary:   {"r": 16,  "g": 27,  "b": 61}   # Navy blue
+Secondary: {"r": 255, "g": 184, "b": 28}  # Gold
+
+BUFFALO SABRES
+Primary:   {"r": 0,   "g": 38,  "b": 115} # Royal blue
+Secondary: {"r": 255, "g": 184, "b": 28}  # Gold
+
+DETROIT RED WINGS
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 255, "g": 255, "b": 255} # White
+
+FLORIDA PANTHERS
+Primary:   {"r": 200, "g": 16,  "b": 46}  # Red
+Secondary: {"r": 253, "g": 185, "b": 19}  # Gold
+
+MONTREAL CANADIENS
+Primary:   {"r": 175, "g": 30,  "b": 45}  # Red
+Secondary: {"r": 25,  "g": 33,  "b": 104} # Blue
+Tertiary:  {"r": 255, "g": 255, "b": 255} # White
+
+NEW JERSEY DEVILS
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+NEW YORK ISLANDERS
+Primary:   {"r": 0,   "g": 71,  "b": 183} # Blue
+Secondary: {"r": 255, "g": 103, "b": 0}   # Orange
+
+NEW YORK RANGERS
+Primary:   {"r": 0,   "g": 56,  "b": 168} # Blue
+Secondary: {"r": 206, "g": 17,  "b": 38}  # Red
+Tertiary:  {"r": 255, "g": 255, "b": 255} # White
+
+PHILADELPHIA FLYERS
+Primary:   {"r": 255, "g": 103, "b": 0}   # Orange
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+PITTSBURGH PENGUINS
+Primary:   {"r": 0,   "g": 0,   "b": 0}   # Black
+Secondary: {"r": 255, "g": 184, "b": 28}  # Gold
+
+TORONTO MAPLE LEAFS
+Primary:   {"r": 0,   "g": 32,  "b": 144} # Blue
+Secondary: {"r": 255, "g": 255, "b": 255} # White
+
+WASHINGTON CAPITALS
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 33,  "b": 71}  # Navy
+
+═══════════════════════════════════════════════════════════════════════════════
+METROPOLITAN DIVISION
+═══════════════════════════════════════════════════════════════════════════════
+
+CAROLINA HURRICANES
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+COLUMBUS BLUE JACKETS
+Primary:   {"r": 0,   "g": 38,  "b": 115} # Blue
+Secondary: {"r": 206, "g": 17,  "b": 38}  # Red
+
+NEW YORK ISLANDERS
+(see Atlantic Division above)
+
+PHILADELPHIA FLYERS
+(see Atlantic Division above)
+
+PITTSBURGH PENGUINS
+(see Atlantic Division above)
+
+WASHINGTON CAPITALS
+(see Atlantic Division above)
+
+NEW JERSEY DEVILS
+(see Atlantic Division above)
+
+OTTAWA SENATORS
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+Tertiary:  {"r": 255, "g": 184, "b": 28}  # Gold
+
+═══════════════════════════════════════════════════════════════════════════════
+CENTRAL DIVISION
+═══════════════════════════════════════════════════════════════════════════════
+
+CHICAGO BLACKHAWKS
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+COLORADO AVALANCHE
+Primary:   {"r": 108, "g": 35,  "b": 103} # Burgundy
+Secondary: {"r": 0,   "g": 38,  "b": 115} # Blue
+
+DALLAS STARS
+Primary:   {"r": 0,   "g": 125, "b": 53}  # Dark green
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+Tertiary:  {"r": 255, "g": 255, "b": 255} # White
+
+MINNESOTA WILD
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 0,   "g": 125, "b": 53}  # Green
+
+ST. LOUIS BLUES
+Primary:   {"r": 0,   "g": 38,  "b": 115} # Blue
+Secondary: {"r": 255, "g": 184, "b": 28}  # Gold
+
+WINNIPEG JETS
+Primary:   {"r": 0,   "g": 32,  "b": 144} # Navy blue
+Secondary: {"r": 206, "g": 17,  "b": 38}  # Red
+
+VANCOUVER CANUCKS
+Primary:   {"r": 0,   "g": 32,  "b": 144} # Blue
+Secondary: {"r": 0,   "g": 125, "b": 53}  # Green
+
+═══════════════════════════════════════════════════════════════════════════════
+PACIFIC DIVISION
+═══════════════════════════════════════════════════════════════════════════════
+
+ANAHEIM DUCKS
+Primary:   {"r": 255, "g": 103, "b": 0}   # Orange
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+ARIZONA COYOTES
+Primary:   {"r": 132, "g": 38,  "b": 54}  # Maroon
+Secondary: {"r": 21,  "g": 84,  "b": 103} # Teal
+
+CALGARY FLAMES
+Primary:   {"r": 206, "g": 17,  "b": 38}  # Red
+Secondary: {"r": 255, "g": 184, "b": 28}  # Gold
+
+EDMONTON OILERS
+Primary:   {"r": 255, "g": 103, "b": 0}   # Orange
+Secondary: {"r": 0,   "g": 32,  "b": 144} # Blue
+
+LOS ANGELES KINGS
+Primary:   {"r": 0,   "g": 0,   "b": 0}   # Black
+Secondary: {"r": 192, "g": 192, "b": 192} # Silver
+
+SAN JOSE SHARKS
+Primary:   {"r": 0,   "g": 113, "b": 147} # Teal
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+Tertiary:  {"r": 255, "g": 103, "b": 0}   # Orange
+
+SEATTLE KRAKEN
+Primary:   {"r": 16,  "g": 52,  "b": 107} # Kraken purple/navy
+Secondary: {"r": 0,   "g": 211, "b": 198} # Seafoam
+
+VEGAS GOLDEN KNIGHTS
+Primary:   {"r": 255, "g": 184, "b": 28}  # Gold
+Secondary: {"r": 0,   "g": 0,   "b": 0}   # Black
+
+TAMPA BAY LIGHTNING
+Primary:   {"r": 0,   "g": 32,  "b": 144} # Blue
+Secondary: {"r": 255, "g": 255, "b": 255} # White
+
+═══════════════════════════════════════════════════════════════════════════════
+USAGE EXAMPLE
+═══════════════════════════════════════════════════════════════════════════════
+
+
+# Montreal Canadiens (example from script)
+HABS_RED     = {"r": 175, "g": 30,  "b": 45}
+HABS_WHITE   = {"r": 255, "g": 255, "b": 255}
+HABS_BLUE    = {"r": 25,  "g": 33,  "b": 104}
+
+# Edmonton Oilers (for testing)
+OILERS_ORANGE = {"r": 255, "g": 103, "b": 0}
+OILERS_BLUE   = {"r": 0,   "g": 32,  "b": 144}
+
+# Toronto Maple Leafs
+LEAFS_BLUE    = {"r": 0,   "g": 32,  "b": 144}
+LEAFS_WHITE   = {"r": 255, "g": 255, "b": 255}
+
+# Vegas Golden Knights
+VEGAS_GOLD    = {"r": 255, "g": 184, "b": 28}
+VEGAS_BLACK   = {"r": 0,   "g": 0,   "b": 0}
+
+═══════════════════════════════════════════════════════════════════════════════
